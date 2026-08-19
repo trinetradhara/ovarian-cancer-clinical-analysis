@@ -23,8 +23,6 @@ The project uses a consolidated ovarian cancer clinical dataset. Specific subset
 
 The dataset contains patient-level clinical attributes relevant to demographic characteristics, disease status, treatment, and outcomes.
 
-> Dataset files are not included in this repository where the original source is externally hosted. Source links are provided separately where applicable.
-
 ## Analysis
 
 ### 1. Clinical and Survival Analysis
